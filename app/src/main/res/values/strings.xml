@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Guardian News</string>
+
+    <!-- Text to display in the list when there is no internet connection [CHAR LIMIT=NONE] -->
+    <string name="no_internet">No internet connection.</string>
+
+    <!-- Text to display in the list when there are no news found [CHAR LIMIT=NONE] -->
+    <string name="no_news">No news found.</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">News Settings</string>
+
+    <!-- Strings For Search By Preference [CHAR LIMIT=30] -->
+    <string name="settings_choose_label">Choose preferred topics</string>
+    <string name="settings_search_by_key" translatable="false">search_by</string>
+    <string name="settings_search_by_default" translatable="false">@string/settings_search_by_debate_value</string>
+
+    <!-- Label for search-by debate option [CHAR LIMIT=20] -->
+    <string name="settings_search_by_debate_label">Debate</string>
+    <string name="settings_search_by_debate_value" translatable="false">debate</string>
+
+    <!-- Label for search-by economy option [CHAR LIMIT=20] -->
+    <string name="settings_search_by_economy_label">Economy</string>
+    <string name="settings_search_by_economy_value" translatable="false">economy</string>
+
+    <!-- Label for search-by education option [CHAR LIMIT=20] -->
+    <string name="settings_search_by_education_label">Education</string>
+    <string name="settings_search_by_education_value" translatable="false">education</string>
+
+    <!-- Label for search-by business option [CHAR LIMIT=20] -->
+    <string name="settings_search_by_business_label">Business</string>
+    <string name="settings_search_by_business_value" translatable="false">business</string>
+
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#546e7a</color>
+    <color name="colorPrimaryDark">#37474f</color>
+    <color name="colorAccent">#ffc107</color>
+
+    <color name="newsTextColor">#37474f</color>
+    <color name="dateTextColor">#b0bec5</color>
+
+    <!-- Color for a politics section -->
+    <color name="politics">#4A7BA7</color>
+
+    <!-- Color for an environment section -->
+    <color name="environment">#9fa8da</color>
+
+    <!-- Color for an education section -->
+    <color name="education">#009688</color>
+
+    <!-- Color for a business section -->
+    <color name="business">#ffc107</color>
+
+    <!-- Color for an UK news section -->
+    <color name="uk_news">#dce775</color>
+
+    <!-- Color for a society section -->
+    <color name="society">#00bcd4</color>
+
+    <!-- Color for world news section-->
+    <color name="world_news">#ec407a</color>
+
+    <!-- Color for a opinion section -->
+    <color name="opinion">#ab47bc</color>
+
+    <!-- Color for a guardian small business network section -->
+    <color name="guardian_small_business_network">#673ab7</color>
+
+    <!-- Color for a money section -->
+    <color name="money">#ef5350</color>
+
+    <!-- Color for all other sections -->
+    <color name="other">#9e9e9e</color>
+
+</resources>

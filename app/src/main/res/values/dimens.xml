@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Layout margin of 8dp-->
+    <dimen name="margin_layout_small">8dp</dimen>
+
+    <!-- ListView Divider Size-->
+    <dimen name="list_view_divider">1dp</dimen>
+
+    <!-- Section background width-->
+    <dimen name="section_background_width">36dp</dimen>
+
+    <!-- Section background height-->
+    <dimen name="section_background_height">24dp</dimen>
+
+    <!-- Section background radius-->
+    <dimen name="section_background_radius">6dp</dimen>
+
+</resources>

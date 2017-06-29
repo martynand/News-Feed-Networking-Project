@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- ListView style. -->
+    <style name="ListViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:divider">@android:color/white</item>
+        <item name="android:dividerHeight">@dimen/list_view_divider</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- SectionTextView style. -->
+    <style name="SectionTextViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/section_background</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">@dimen/margin_layout_small</item>
+        <item name="android:paddingRight">@dimen/margin_layout_small</item>
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- TitleTextView style. -->
+    <style name="TitleTextViewStyle">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingRight">@dimen/margin_layout_small</item>
+        <item name="android:textColor">@color/newsTextColor</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+</resources>
